@@ -7,10 +7,10 @@
 - Họ tên: Vũ Thượng Tín
 - MSSV: 2A202602955
 - Email: Nituv05@users.noreply.github.com (địa chỉ GitHub noreply dùng cho commit)
-- Link repo (fork): https://github.com/Nituv05/K4-Track4-Day23-VuThuongTin-2A202602955-SensorFusion
+- Link repo (fork): https://github.com/Nituv05/K4-L2L3-DAY23-VuThuongTin-2A202602955-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`): Chưa chốt; lấy commit cuối sau khi hoàn tất CP5, báo cáo và push.
 
-Tên repo sẽ đổi theo mẫu `K4-L2L3-DAY23-VuThuongTin-2A202602955-SensorFusion` sau khi xác thực GitHub.
+Repo đã được đổi đúng mẫu `K4-L2L3-DAY23-VuThuongTin-2A202602955-SensorFusion`.
 
 ## Tóm tắt kết quả
 
@@ -74,7 +74,7 @@ Lần chạy compare phải sinh đủ `metrics.json`, `grade_run.log`, `metrics
 - [ ] Báo cáo có đủ số liệu thực tế và đối chiếu hai mode.
 - [x] Đã khai báo sử dụng AI.
 - [x] Không commit Waymo, weights, paths.yaml, .env hoặc API key.
-- [ ] Tên repo đã đổi đúng mẫu yêu cầu.
+- [x] Tên repo đã đổi đúng mẫu yêu cầu.
 - [ ] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`.
-- [ ] Đã push toàn bộ checkpoint.
+- [x] Đã push các checkpoint code E–H và phần giải thích báo cáo.
 - [ ] Đã nộp link repo và commit hash cuối trên LMS.
